@@ -30,7 +30,7 @@ void login_menu()
 	while ((password[n++] = getchar()) != '\n')
 		;
 
-	return fLogin(username, password);
+		return fLogin(username, password);
 }
 
 void fRegister(char username[MAX], char password[MAX])
