@@ -6,7 +6,7 @@ my project in fundamentals of programming course in university.
 simply you can run server in appropirate os folder first then run two or more client to communicate in it.
 
 # TODO
-[ ] Implement linux version
-[ ] Add screen shots to readme
-[ ] Debug windows version
-[ ] Refactor
+- [ ] Implement linux version
+- [ ] Add screen shots to readme
+- [ ] Debug windows version
+- [ ] Refactor
