@@ -5,7 +5,7 @@ my project in fundamentals of programming course in university.
 # how to run
 simply you can run server in appropirate os folder first then run two or more client to communicate in it.
 
-#TODO
+# TODO
 [] Implement linux version
 [] Add screen shots to readme
 [] Debug windows version
